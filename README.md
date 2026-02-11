@@ -16,8 +16,15 @@
 * FloatingActionButton → canvieu el color de fons (backgroundColor).
 * Opcional: canvieu el color de fons del body amb Scaffold.backgroundColor.
 
-> **⚠️PD:** Els HTML estan fets originalment fets en català però he ficat comentaris de la traducció
 ---
+
+## 📜 Llicència
+Aquest projecte està sota la llicència **The Unlicense**. Aquest codi és de domini públic i no té cap restricció d'ús. Consulta el fitxer [LICENSE](LICENSE) per a més detalls.
+
+---
+
+> **⚠️PD:** Els HTML estan fets originalment fets en català però he ficat comentaris de la traducció
+
 
 **English:**
 
@@ -36,5 +43,12 @@
 * IconButton → change the icon color.
 * FloatingActionButton → change the background color (backgroundColor).
 * Optional: Change the background color of the body with Scaffold.backgroundColor.
+
+---
+
+## 📜 License
+This project is released under **The Unlicense**. This code is in the public domain and has no restrictions on use. See the [LICENSE](LICENSE) file for details.
+
+---
 
 > **⚠️PD:** The HTML files were originally written in Catalan, but I have included comments with the English translations for better understanding.
