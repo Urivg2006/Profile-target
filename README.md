@@ -25,6 +25,7 @@ Aquest projecte està sota la llicència **The Unlicense**. Aquest codi és de d
 
 > **⚠️PD:** Els HTML estan fets originalment fets en català però he ficat comentaris de la traducció
 
+---
 
 **English:**
 
