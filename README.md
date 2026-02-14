@@ -2,7 +2,7 @@
 
 # Targeta de perfil
 
-## Creeu una aplicació amb Flutter anomenada Pt1_Cognom_Nom que mostri:
+## Creeu una aplicació amb Flutter que mostri:
 * Una AppBar amb el títol "Perfil".
 * Al centre del body, una imatge de perfil (Image.network o Image.asset).
 * Sota la imatge, un Text amb el nom de la persona.
@@ -31,7 +31,7 @@ Aquest projecte està sota la llicència **The Unlicense**. Aquest codi és de d
 
 # Profile Card
 
-## Create a Flutter application named Pt1_Surname_Name that displays:
+## Create a Flutter application that displays:
 * An AppBar with the title "Profile".
 * In the center of the body, a profile image (Image.network or Image.asset).
 * Under the image, a Text with the person's name.
